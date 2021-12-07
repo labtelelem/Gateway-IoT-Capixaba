@@ -3,7 +3,7 @@
 ## Do sensor até o usuário
 O envio de informação desde um ou vários tipos de sensores, em operação remota,  pode seguir a configuração apresentada na seguinte imagem:
 
-!(https://user-images.githubusercontent.com/93137900/145056867-6fbfe872-ec5f-471c-8124-9d05d31bbce9.png)
+![EndNode](https://user-images.githubusercontent.com/93137900/145057246-ddf5d902-6d3d-42c9-b0c5-bde26614e729.png)
 
 ### End Node
 Dispositivo eletrônico a batería com capacidade de monitoramento, procesamento e transmissão sem fio usando o protocolo LoRa na faixa de frequência desde 915 até 928 MHz.
